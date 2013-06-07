@@ -1592,7 +1592,7 @@ if(argc == 2)
 		return TCL_OK;
 	}
 }
-if(argc == 3)
+if(argc == 2)
 {
 	if ((strcasecmp(argv[1], "Guha1"  ) == 0)) 
 	{
