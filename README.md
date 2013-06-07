@@ -20,11 +20,11 @@ $ns at 131.101844 "$routing_(7) All_Info \n "
 then run the Test.tcl file for the simulation 
 remember here there are different modes of protocl like for finding the CDS by DACDS or by Guha1 or by Guha 2 
 
-go to in Test.tcl
+go to in Test.tcl and find under this :)
 `
-#Modes of operation by Arun 
+\#Modes of operation by Arun 
 `
-find this	
+	
 ```
 $ns at 13.101844 "$routing_(7) CDS \n "
 ```
