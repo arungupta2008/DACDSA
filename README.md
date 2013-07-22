@@ -1,6 +1,6 @@
-Hello , This is NS2 Project for writin protocol for creating CDS from given network .
+Hello , This is Msster's Project NS2 Project for writing protocol for creating CDS from given network .
 
-We have write DACDSA algorithm for finding the CDS also written the Guha Kullar's algorithm to check 
+I have written DACDSA algorithm for finding the CDS also written the Guha Kullar's algorithm to compare with our algorithm
 
 Remember here i have putted all the files for NS-2.35 make changes in all files then run
 
